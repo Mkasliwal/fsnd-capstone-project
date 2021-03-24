@@ -194,7 +194,7 @@ Description: Provides a randomised question from a deck based on choosen categor
 }
 ```
 ## Heroku URL
-https://rocky-river-09476.herokuapp.com/
+https://fathomless-island-41344.herokuapp.com/
 
 ## Instructions To Setup Authentications
 1. Create Regular App
