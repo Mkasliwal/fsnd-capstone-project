@@ -40,6 +40,10 @@ def create_app(test_config=None):
         return response
 
 
+    @app.route('/')
+    def index():
+        return '<h1>Hi there...!!</h1>'
+
     # GET Request 1
     @app.route('/categories')
     @requires_auth('get:categories')
