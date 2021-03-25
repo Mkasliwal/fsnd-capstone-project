@@ -21,7 +21,7 @@ We recommend working within a virtual environment whenever using Python for proj
 
 #### PIP Dependencies
 
-Once you have your virtual environment setup and running, install dependencies by naviging to the `/backend` directory and running:
+Once you have your virtual environment setup and running, install dependencies by naviging to the root directory and running:
 
 ```bash
 pip install -r requirements.txt
@@ -194,7 +194,7 @@ Description: Provides a randomised question from a deck based on choosen categor
 }
 ```
 ## Heroku URL
-https://fathomless-island-41344.herokuapp.com/
+https://quiet-waters-79427.herokuapp.com/
 
 ## Instructions To Setup Authentications
 1. Create Regular App
